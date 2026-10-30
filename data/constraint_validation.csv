@@ -1,0 +1,49 @@
+users,target_mbps,method,sum,count,mean
+5,0.5,Equal,10,10,1.0
+5,0.5,Greedy,10,10,1.0
+5,0.5,Proportional Fair,10,10,1.0
+5,0.5,Reliability Aware V2,10,10,1.0
+5,1.0,Equal,10,10,1.0
+5,1.0,Greedy,10,10,1.0
+5,1.0,Proportional Fair,10,10,1.0
+5,1.0,Reliability Aware V2,10,10,1.0
+5,2.0,Equal,10,10,1.0
+5,2.0,Greedy,10,10,1.0
+5,2.0,Proportional Fair,10,10,1.0
+5,2.0,Reliability Aware V2,10,10,1.0
+10,0.5,Equal,10,10,1.0
+10,0.5,Greedy,10,10,1.0
+10,0.5,Proportional Fair,10,10,1.0
+10,0.5,Reliability Aware V2,10,10,1.0
+10,1.0,Equal,10,10,1.0
+10,1.0,Greedy,10,10,1.0
+10,1.0,Proportional Fair,10,10,1.0
+10,1.0,Reliability Aware V2,10,10,1.0
+10,2.0,Equal,10,10,1.0
+10,2.0,Greedy,10,10,1.0
+10,2.0,Proportional Fair,10,10,1.0
+10,2.0,Reliability Aware V2,10,10,1.0
+20,0.5,Equal,10,10,1.0
+20,0.5,Greedy,10,10,1.0
+20,0.5,Proportional Fair,10,10,1.0
+20,0.5,Reliability Aware V2,10,10,1.0
+20,1.0,Equal,10,10,1.0
+20,1.0,Greedy,10,10,1.0
+20,1.0,Proportional Fair,10,10,1.0
+20,1.0,Reliability Aware V2,10,10,1.0
+20,2.0,Equal,10,10,1.0
+20,2.0,Greedy,10,10,1.0
+20,2.0,Proportional Fair,10,10,1.0
+20,2.0,Reliability Aware V2,10,10,1.0
+50,0.5,Equal,10,10,1.0
+50,0.5,Greedy,10,10,1.0
+50,0.5,Proportional Fair,10,10,1.0
+50,0.5,Reliability Aware V2,10,10,1.0
+50,1.0,Equal,10,10,1.0
+50,1.0,Greedy,10,10,1.0
+50,1.0,Proportional Fair,10,10,1.0
+50,1.0,Reliability Aware V2,10,10,1.0
+50,2.0,Equal,10,10,1.0
+50,2.0,Greedy,10,10,1.0
+50,2.0,Proportional Fair,10,10,1.0
+50,2.0,Reliability Aware V2,10,10,1.0
